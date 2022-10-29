@@ -1,0 +1,48 @@
+ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+    text-indent: -1em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11pt; 
+ }
+
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    
+    text-align: center;
+    color: white;
+  }
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+ }
+
+ h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+ }
+
+ ol {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11pt;
+ }
+
